@@ -1,8 +1,8 @@
 <p>
 <h1 align="center">t-variance<font color="#b07219">J</font></h1>
-<h6 align="right">v0.1.3</h6>
 <h5 align="center">A simple FIJI/ImageJ plugin for t-axial variance calculation assisting calcium signal profiling.</h5>
 <h5 align="center">It will highlight the regions that have calcium signal transients.</h5>
+<h6 align="right">v0.1.3</h6>
 </p>
 <br>
 
@@ -16,8 +16,8 @@
 
 ## Instruction
 
-<p>
-<img src='./imgs/splash4tvarianceJ.png' align="center" width=350>
+<p align="center">
+<img src='./imgs/splash4tvarianceJ.png' width=350>
 </p>
 
 - Step1: Select calcium image stack that you want to processed (first column);
@@ -25,7 +25,10 @@
 - Step3: Define the number of frames per `t sliding` (third column).
 
 For example:
+
+
 If `Step2` and `Step2` are defined as `10` and `10`, the variance calculation will act on: `1-10`, `11-20`, `21-30` frames;
+
 If `Step2` and `Step2` are defined as `10` and `1`, the variance calculation will act on: `1-10`, `2-11`, `3-12` frames.
 
 
