@@ -20,11 +20,11 @@
 <img src='./imgs/splash4tvarianceJ.png' width=350>
 </p>
 
-- Step1: Select calcium image stack that you want to processed (first column);
+- Step1: Select calcium image stack that you want to process (first column);
 - Step2: Define the number of frames per `variance calculation` (second column);
 - Step3: Define the number of frames per `t sliding` (third column).
 
-For example:
+**For example:**
 
 
 If `Step2` and `Step2` are defined as `10` and `10`, the variance calculation will act on: `1-10`, `11-20`, `21-30` frames;
