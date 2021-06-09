@@ -1,6 +1,6 @@
 <p>
 <h1 align="center">t-variance<font color="#b07219">J</font></h1>
-<h5 align="center">A simple FIJI/ImageJ plugin for t-axial variance calculation assisting calcium signal profiling.</h5>
+<h5 align="center">A simple FIJI/ImageJ plugin for t-axial variance calculation assisting in calcium signal profiling.</h5>
 <h5 align="center">It will highlight the regions that have calcium signal transients.</h5>
 <h6 align="right">v0.1.3</h6>
 </p>
