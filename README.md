@@ -11,7 +11,7 @@
 </p>
 <br>
 
-[Portal]() to the plugin.
+[Portal](https://raw.githubusercontent.com/WeisongZhao/tvarianceJ/main/tvarianceJ_-0.1.3.jar) to the plugin.
 
 
 ## Instruction
@@ -27,7 +27,6 @@
 <p>
 <img src='./imgs/Result of t-variance result.gif' align="right" width=400>
 </p>
-
 
 
 **For example:**
