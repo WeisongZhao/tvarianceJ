@@ -28,7 +28,7 @@
 <img src='./imgs/Result of t-variance result.gif' align="right" width=400>
 </p>
 
-
+<br>
 **For example:**
 
 
