@@ -25,7 +25,7 @@
 - Step3: Define the number of frames per `t sliding` (third column).
 
 <p>
-<img src='./imgs/Result of t-variance result.gif' align="right" width=300>
+<img src='./imgs/Result of t-variance result.gif' align="middle" width=400>
 </p>
 
 
