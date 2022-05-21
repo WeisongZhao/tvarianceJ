@@ -26,6 +26,6 @@ public class Apply_LUT_TVJ {
 	}
 
 	public static void applyLUT_redhot(ImagePlus imp) {
-		applyLUT(imp, "Red_Hot.lut");
+		applyLUT(imp, "sJet.lut");
 	}
 }
